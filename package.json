@@ -1,7 +1,7 @@
 {
-  "name": "shopit",
+  "name": "mtcommerce",
   "version": "1.0.0",
-  "description": "full ecommerce site using mern",
+  "description": "e-commerce site diploma capstone project using MERN",
   "main": "server.js",
   "scripts": {
     "start": "SET node backend/server.js",
@@ -10,7 +10,7 @@
     "seeder": "node backend/utils/seeder.js",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false && npm install --prefix frontend && npm run build --prefix frontend"
   },
-  "author": "Ghulam Abbas",
+  "author": "Abdullah Al Maruf & Toukir Ahammed",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
