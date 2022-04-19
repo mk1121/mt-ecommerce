@@ -27,8 +27,8 @@ const Header = () => {
                 <div className="col-12 col-md-3">
                     <div className="navbar-brand">
                         <Link to="/">
-                            {/* <img src={"../../images/mt_commerce_logo.png"} alt='mt-commerce'/> */}
-                            <span style={{color:'#fa9c23'}}>MT-COMMERCE</span>
+                            <img src="/images/mt_commerce_logo.png" alt='mt-commerce'/>
+                            {/* <span style={{color:'#fa9c23'}}>MT-COMMERCE</span> */}
                         </Link>
                     </div>
                 </div>
