@@ -7,6 +7,7 @@
     "start": "SET node backend/server.js",
     "dev": "SET NODE_ENV=DEVELOPMENT& nodemon backend/server",
     "prod": "SET NODE_ENV=PRODUCTION& nodemon backend/server",
+     "ndb": "SET NODE_ENV=DEVELOPMENT&  node_modules/.bin/ndb nodemon backend/server.js",
     "seeder": "node backend/utils/seeder.js",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false && npm install --prefix frontend && npm run build --prefix frontend"
   },
@@ -27,6 +28,7 @@
     "validator": "^13.1.17"
   },
   "devDependencies": {
+    "ndb": "^1.1.5",
     "nodemon": "^2.0.6"
   }
 }
