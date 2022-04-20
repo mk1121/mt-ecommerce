@@ -189,7 +189,10 @@ const Home = ({ match }) => {
 
                 </Fragment>
             )}
+            <div className='container'>
+
         <Footer />
+            </div>
 
         </Fragment>
     )

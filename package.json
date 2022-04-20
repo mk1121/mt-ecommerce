@@ -1,7 +1,7 @@
 {
-  "name": "shopit",
+  "name": "mtcommerce",
   "version": "1.0.0",
-  "description": "full ecommerce site using mern",
+  "description": "e-commerce site diploma capstone project using MERN",
   "main": "server.js",
   "scripts": {
     "dev": "SET NODE_ENV=DEVELOPMENT& nodemon backend/server",

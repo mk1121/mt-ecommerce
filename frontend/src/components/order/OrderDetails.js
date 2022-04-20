@@ -35,6 +35,8 @@ const OrderDetails = ({ match }) => {
 
             {loading ? <Loader /> : (
                 <Fragment>
+                  <div className="container">
+
                     <div className="row d-flex justify-content-between">
                         <div className="col-12 col-lg-8 mt-5 order-details">
 
@@ -84,6 +86,7 @@ const OrderDetails = ({ match }) => {
                             <hr />
                         </div>
                     </div>
+                  </div>
                 </Fragment>
             )}
 
