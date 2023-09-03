@@ -1,0 +1,37 @@
+{
+  "name": "mtcommerce",
+  "version": "1.0.0",
+  "description": "e-commerce site diploma capstone project using MERN",
+  "main": "index.js",
+  "engines": {
+    "node": "16.x"
+  },
+  "scripts": {
+    "dev": "SET NODE_ENV=DEVELOPMENT& nodemon index.js",
+    "prod": "SET NODE_ENV=PRODUCTION& nodemon index.js",
+    "seeder": "node api/utils/seeder.js",
+    "start": "SET NODE_ENV=PRODUCTION& node index.js",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false && npm install --prefix frontend && npm run build --prefix frontend",
+    "ndb": "SET NODE_ENV=DEVELOPMENT&  node_modules/.bin/ndb nodemon index.js"
+  },
+  "author": "Md. Abdullah Al Maruf & Toukir Ahammed",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^8.2.0",
+    "cloudinary": "^1.23.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.16",
+    "express-fileupload": "^1.2.0",
+    "nodemailer": "^6.4.16",
+    "validator": "^13.1.17",
+    "stripe": "^8.128.0"
+  },
+  "devDependencies": {
+    "ndb": "^1.1.5",
+    "nodemon": "^2.0.6"
+  }
+}

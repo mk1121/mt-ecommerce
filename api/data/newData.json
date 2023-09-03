@@ -1,0 +1,977 @@
+[
+  {
+    "name": "Chaldal Basic Handwash 250 ml",
+    "price": 59,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/chaldal-basic-handwash-250-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D97544&q=best&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Chickpea Flour (Boot Beshon) 500 gm",
+    "price": 49,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/chickpea-flour-boot-beshon-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48030&q=best&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Moshur Dal (Deshi) 1 kg",
+    "price": 129,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/moshur-dal-deshi-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47048&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Moshur Dal (Imported) 1 kg",
+    "price": 109,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/moshur-dal-imported-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47049&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Chaldal Basic Dishwashing Bar 300 gm",
+    "price": 29,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/chaldal-basic-dishwashing-bar-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D97541&q=best&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Kheshari Dal 500 gm",
+    "price": 49,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/kheshari-dal-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47046&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Nazirshail Rice Standard (Half Boiled) 5 kg",
+    "price": 289,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/nazirshail-rice-standard-half-boiled-5-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D66168&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Chinigura Rice 1 kg",
+    "price": 109,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/chinigura-rice-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48071&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Cinnamon (Daruchini) Whole 100 gm",
+    "price": 49,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/cinnamon-daruchini-whole-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48355&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Cardamom (Elachi) Whole 50 gm",
+    "price": 129,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/cardamom-elachi-whole-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48353&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Raisins (Kishmish) 100 gm",
+    "price": 49,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/raisins-kishmish-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47965&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Almonds (Kath Badam) 100 gm",
+    "price": 89,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/almonds-kath-badam-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47957&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Clove (Lobongo) 50 gm",
+    "price": 69,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/clove-lobongo-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48356&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Alu Bukhara 100 gm",
+    "price": 59,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/alu-bukhara-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48343&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Mug Dal 500 gm",
+    "price": 66,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/mug-dal-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47050&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Boot Dal 500 gm",
+    "price": 37,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/boot-dal-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47039&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Dubli Boot 500 gm",
+    "price": 29,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/dubli-boot-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47041&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Anchor Boot Dal 500 gm",
+    "price": 32,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/anchor-boot-dal-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47038&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Khosha Chara Chola Boot (Peeled Chick Pea) Dal 500 gm",
+    "price": 47,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/khosha-chara-chola-boot-peeled-chick-pea-dal-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47044&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Mixed Dal 500 gm",
+    "price": 59,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/mixed-dal-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47047&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Mix Spice (Pach Foron) 100 gm",
+    "price": 29,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/mix-spice-pach-foron-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48387&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Fevicol Super Glue 3 gm",
+    "price": 25,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/fevicol-super-glue-3-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D95814&q=best&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Mashkolai Dal Peeled 500 gm",
+    "price": 69,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/mashkolai-dal-peeled-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D46113&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Black Cumin (Kalo Jira) 100 gm",
+    "price": 45,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/black-cumin-kalo-jira-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67826&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Whiskas Adult Cat Food Tuna 80 gm",
+    "price": 89,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/whiskas-adult-cat-food-tuna-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D91691&q=best&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Banglamoti Rice (Boiled) 1 kg",
+    "price": 79,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/banglamoti-rice-boiled-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D72051&q=best&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Fennel (Mouri) 100 gm",
+    "price": 25,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/fennel-mouri-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48365&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Fenugreek (Methi) Seed 100 gm",
+    "price": 19,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/fenugreek-methi-seed-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48366&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Nutmeg (Jayfal) Whole 5 pcs",
+    "price": 49,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/nutmeg-jayfal-whole-5-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103098&q=best&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Green Cardamom (Sobuj Elachi) Whole 50 gm",
+    "price": 179,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/green-cardamom-sobuj-elachi-whole-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48372&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Pringles Potato Chips Independence Combo Offer 2 pcs",
+    "price": 449,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/pringles-potato-chips-independence-combo-offer-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D88907&q=best&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Coriander (Dhonia) 100 gm",
+    "price": 29,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/coriander-dhonia-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48363&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Whiskas Junior Cat Food Mackerel 80 gm",
+    "price": 89,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/whiskas-junior-cat-food-mackerel-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D91587&q=best&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Kangaroo Lentil (Moshur Dal) 1 kg",
+    "price": 145,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/kangaroo-lentil-moshur-dal-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47045&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Mustard Seed (Yellow) 100 gm",
+    "price": 19,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/mustard-seed-yellow-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48390&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Walnuts (Akhrot) 100 gm",
+    "price": 129,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/walnuts-akhrot-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65836&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Parachute Just For Baby Toothpaste (Mix Fruit) 45 gm",
+    "price": 55,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/parachute-just-for-baby-toothpaste-mix-fruit-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D106875&q=best&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Parachute Just For Baby - Baby Toothpaste (Orange) 45 gm",
+    "price": 55,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/parachute-just-for-baby-baby-toothpaste-orange-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D85423&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Parachute SkinPure Petroleum Jelly 50 ml",
+    "price": 35,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/parachute-skinpure-petroleum-jelly-50-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D107093&q=best&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Whiskas Adult Cat Food Ocean Fish 80 gm",
+    "price": 89,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/whiskas-adult-cat-food-ocean-fish-80-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D91724&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Savlon Twinkle Baby Pant Diaper M (Baby Feeder 240 ml Free) 50 pcs",
+    "price": 909,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/savlon-twinkle-baby-pant-diaper-m-baby-feeder-240-ml-free-50-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D88895&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Supermom Baby Diaper Belt S New Born - 8 kg 5 pcs",
+    "price": 95,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/supermom-baby-diaper-belt-s-new-born-8-kg-5-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D91100&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Ajwain 100 gm",
+    "price": 25,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/ajwain-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48342&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Love Baby Super Diaper 2 Mini Belt S 3-6 kg (Free Handwash 170 ml)  31 pcs",
+    "price": 489,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/love-baby-super-diaper-2-mini-belt-s-3-6-kg-free-handwash-170-ml-31-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D83973&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Nihar Naturals Lovely Coconut Castor Hair Oil 150 ml",
+    "price": 80,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/nihar-naturals-lovely-coconut-castor-hair-oil-150-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D106537&q=best&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Studio X Insta Pocket Perfume Woody 17 ml",
+    "price": 95,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/studio-x-insta-pocket-perfume-woody-17-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D91463&q=best&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Dettol Disinfectant Surface Spray Spring Blossom 225 ml",
+    "price": 299,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/dettol-disinfectant-surface-spray-spring-blossom-225-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D100741&q=best&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Huggies Wonder Pants Baby Diaper Pant XL (12-17 kg) 20 pcs",
+    "price": 649,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/huggies-wonder-pants-baby-diaper-pant-xl-12-17-kg-20-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D105200&q=best&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Mediker SafeLife Handwash Refill (Buy 3 Get 1 Free)170 ml",
+    "price": 150,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/mediker-safelife-handwash-refill-buy-3-get-1-free170-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D85087&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Parachute SkinPure Skin Lotion Natural White 300 ml",
+    "price": 198,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/parachute-skinpure-skin-lotion-natural-white-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D85435&q=best&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Parachute SkinPure Skin Lotion Natural Moisture 300 ml",
+    "price": 190,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/parachute-skinpure-skin-lotion-natural-moisture-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D107062&q=best&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Studio X Clean & Strong Men Shampoo 175 ml",
+    "price": 154,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/studio-x-clean-strong-men-shampoo-175-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D85574&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Parachute SkinPure Beauty Olive Oil 200 ml",
+    "price": 205,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/parachute-skinpure-beauty-olive-oil-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D85427&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "SMC Smile Baby Diaper Belt 11-18 Kg XL 22 pcs",
+    "price": 385,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/smc-smile-baby-diaper-belt-11-18-kg-xl-22-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D67902&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Parachute Just For Baby Soap Combo 3 pcs 75 gm ",
+    "price": 175,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/parachute-just-for-baby-soap-combo-3-pcs-75-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D69747&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Parachute Just For Baby - Baby Oil 200 ml",
+    "price": 255,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/parachute-just-for-baby-baby-oil-200-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D85405&q=best&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "MamyPoko Pants Diaper Pant XXXL 18-35 kg 7 pcs",
+    "price": 472,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/mamypoko-pants-diaper-pant-xxxl-18-35-kg-7-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D68004&q=best&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Parachute Hair Oil Extra Care Anti Hairfall Oil 300 ml",
+    "price": 253,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/parachute-hair-oil-extra-care-anti-hairfall-oil-300-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D85380&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Josti Modhu (licorice) 100 gm",
+    "price": 49,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/josti-modhu-licorice-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48373&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Supermom Baby Diaper Belt M 6-11 kg 5 pcs",
+    "price": 95,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/supermom-baby-diaper-belt-m-6-11-kg-5-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D91101&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Supermom Baby Diaper Belt XL 12-17 kg 20 pcs",
+    "price": 509,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/supermom-baby-diaper-belt-xl-12-17-kg-20-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D77421&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Listerine Cool Mint Mouth Wash (Thai) 500 ml",
+    "price": 701,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/listerine-cool-mint-mouth-wash-thai-500-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D60958&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Pond's Face Wash Daily 100 gm ",
+    "price": 119,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/ponds-face-wash-daily-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D101438&q=best&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Dove Shampoo Nourishing Oil Care 340 ml ",
+    "price": 396,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/dove-shampoo-nourishing-oil-care-340-ml?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D86205&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  },
+  {
+    "name": "Arrowroot 100 gm",
+    "price": 19,
+    "description": " ",
+    "images": [
+      {
+        "public_id": " ",
+        "url": "https://chaldn.com/_mpimage/arrowroot-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D48346&q=low&v=1"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "chaldal",
+    "stock": 50,
+    "reviews": []
+  }
+]
