@@ -10,7 +10,7 @@
     "dev": "SET NODE_ENV=DEVELOPMENT& nodemon index.js",
     "prod": "SET NODE_ENV=PRODUCTION& nodemon index.js",
     "seeder": "node api/utils/seeder.js",
-    "start": "SET NODE_ENV=PRODUCTION& node index.js",
+    "start": "node index.js",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false && npm install --prefix frontend && npm run build --prefix frontend",
     "ndb": "SET NODE_ENV=DEVELOPMENT&  node_modules/.bin/ndb nodemon index.js"
   },
