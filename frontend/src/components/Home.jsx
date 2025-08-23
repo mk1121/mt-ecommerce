@@ -136,7 +136,7 @@ const Home = ({ match }) => {
 
                       <div className="col-6 col-md-9">
                         <div className="row">
-                          {products.map((product) => (
+                          {(products || []).map((product) => (
                             <Product key={product._id} product={product} col={4} />
                           ))}
                         </div>
@@ -150,7 +150,7 @@ const Home = ({ match }) => {
 
                   <div className="container mt-3">
                     <div className="row">
-                      {products.map((product) => (
+                      {(products || []).map((product) => (
                         <Product key={product._id} product={product} col={3} />
                       ))}
                     </div>

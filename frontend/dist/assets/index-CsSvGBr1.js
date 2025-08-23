@@ -9643,7 +9643,7 @@ Add a <Suspense fallback=...> component higher in the tree to provide a loading 
         className: 'py-1',
         children: p.jsx('p', {
           className: 'text-center mt-1',
-          children: 'Shopping Cart - 2019-2020, All Rights Reserved',
+          children: 'Shopping Cart - 2019-2025, All Rights Reserved',
         }),
       }),
     });
@@ -13505,8 +13505,9 @@ The error may be correlated with this previous error:
     p_ = 'DELETE_REVIEW_SUCCESS',
     m_ = 'DELETE_REVIEW_RESET',
     h_ = 'DELETE_REVIEW_FAIL',
-    Aa = 'CLEAR_ERRORS',
-    L2 =
+    Aa = 'CLEAR_ERRORS';
+  De.defaults.baseURL = '';
+  const L2 =
       (e = '', t = 1, n, r, a = 0) =>
       async (o) => {
         try {
@@ -25146,7 +25147,6 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   flex: 1;
   padding: 20px;
   ${Bf({ backgroundColor: '#fff8f8' })}
-
 `,
     wm = qe.div`
   margin-bottom: 20px;
@@ -25154,7 +25154,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   align-items: center;
 `,
     oB = qe.img`
-    width: 50%;
+  width: 50%;
 `,
     iB = () =>
       p.jsxs(Q6, {
@@ -25343,7 +25343,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
                                       className: 'col-6 col-md-9',
                                       children: p.jsx('div', {
                                         className: 'row',
-                                        children: m.map((E) =>
+                                        children: (m || []).map((E) =>
                                           p.jsx(MS, { product: E, col: 4 }, E._id),
                                         ),
                                       }),
@@ -25359,7 +25359,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
                                   className: 'container mt-3',
                                   children: p.jsx('div', {
                                     className: 'row',
-                                    children: m.map((E) =>
+                                    children: (m || []).map((E) =>
                                       p.jsx(MS, { product: E, col: 3 }, E._id),
                                     ),
                                   }),
@@ -29086,8 +29086,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
                                     className: 'order-summary-values',
                                     children: [
                                       n.reduce((s, l) => s + Number(l.quantity), 0),
-                                      ' ',
-                                      '(Units)',
+                                      ' (Units)',
                                     ],
                                   }),
                                 ],
@@ -29932,15 +29931,13 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
                     p.jsx('hr', {}),
                     p.jsxs('p', {
                       children: [
-                        'Subtotal:',
-                        ' ',
+                        'Subtotal: ',
                         p.jsxs('span', { className: 'order-summary-values', children: ['৳', a] }),
                       ],
                     }),
                     p.jsxs('p', {
                       children: [
-                        'Shipping:',
-                        ' ',
+                        'Shipping: ',
                         p.jsxs('span', { className: 'order-summary-values', children: ['৳', o] }),
                       ],
                     }),
@@ -47164,7 +47161,7 @@ label.hamburger-button__button {
           return { loading: !1, products: t.payload };
         case HT:
         case $T:
-          return { loading: !1, error: t.payload };
+          return { loading: !1, products: e.products || [], error: t.payload };
         case Aa:
           return { ...e, error: null };
         default:

@@ -1,4 +1,6 @@
 import axios from 'axios';
+// Set Axios base URL from Vite env for hosted environments (e.g., Vercel)
+axios.defaults.baseURL = import.meta.env.VITE_API_BASE || '';
 
 import {
   ALL_PRODUCTS_REQUEST,

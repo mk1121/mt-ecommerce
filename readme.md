@@ -136,6 +136,11 @@ VITE_API_BASE=/api
 # VITE_STRIPE_PUBLIC_KEY=pk_test_xxx
 ```
 
+Vercel deployment:
+
+- Set `VITE_API_BASE` to your backend origin (e.g., `https://your-backend.example.com`), or `/api` if the API is under the same domain.
+- Rebuild after changing envs: Vite reads `VITE_` variables at build time.
+
 ## Available scripts
 
 Root (backend):
