@@ -132,6 +132,8 @@ Frontend (`frontend/.env`):
 ```env
 # Optional; Vite exposes only variables prefixed with VITE_
 VITE_API_BASE=/api
+# Optional: change Vite dev proxy target without editing config
+VITE_API_PROXY=http://127.0.0.1:4002
 # If you ever move Stripe key client-side (not recommended), example:
 # VITE_STRIPE_PUBLIC_KEY=pk_test_xxx
 ```
