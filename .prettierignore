@@ -1,0 +1,7 @@
+node_modules
+frontend/build
+test/playwright-report
+test/test-results
+.git
+
+

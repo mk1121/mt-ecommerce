@@ -4,31 +4,61 @@
   "description": "e-commerce site diploma capstone project using MERN",
   "main": "server.js",
   "scripts": {
-    "dev": "SET NODE_ENV=DEVELOPMENT& nodemon backend/server",
+    "dev": "concurrently -k -n server,client -c green,cyan \"npm:dev:server\" \"npm:dev:client\"",
     "prod": "SET NODE_ENV=PRODUCTION& nodemon backend/server",
     "seeder": "node backend/utils/seeder.js",
     "start": "node backend/server.js",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false && npm install --prefix frontend && npm run build --prefix frontend",
-    "ndb": "SET NODE_ENV=DEVELOPMENT&  node_modules/.bin/ndb nodemon backend/server.js"
+    "ndb": "SET NODE_ENV=DEVELOPMENT&  node_modules/.bin/ndb nodemon backend/server.js",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "lint": "eslint .",
+    "dev:server": "nodemon backend/server.js",
+    "dev:client": "npm run dev --prefix frontend",
+    "prepare": "husky",
+    "style:check:backend": "prettier --check backend && eslint backend",
+    "style:check:frontend": "prettier --check frontend",
+    "style:fix:backend": "prettier --write backend && eslint backend --fix",
+    "style:fix:frontend": "prettier --write frontend",
+    "test:style": "npm run style:check:backend && npm run style:check:frontend"
   },
   "author": "Md. Abdullah Al Maruf & Toukir Ahammed",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
     "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cloudinary": "^1.23.0",
     "cookie-parser": "^1.4.5",
     "dotenv": "^8.2.0",
-    "cloudinary": "^1.23.0",
     "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.10.16",
-    "express-fileupload": "^1.2.0",
     "nodemailer": "^6.4.16",
-    "validator": "^13.1.17",
-    "stripe": "^8.128.0"
+    "stripe": "^8.128.0",
+    "validator": "^13.1.17"
   },
   "devDependencies": {
+    "@eslint/js": "^9.34.0",
+    "concurrently": "^9.2.0",
+    "cross-env": "^10.0.0",
+    "eslint": "^9.34.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^7.2.1",
+    "globals": "^16.3.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.1.5",
     "ndb": "^1.1.5",
-    "nodemon": "^2.0.6"
+    "nodemon": "^2.0.22",
+    "prettier": "^3.6.2"
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx,json,css,md}": [
+      "prettier --write"
+    ],
+    "backend/**/*.js": [
+      "eslint --fix"
+    ]
   }
 }

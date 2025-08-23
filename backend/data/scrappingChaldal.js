@@ -2,15 +2,15 @@ newProd = prod.hits.map((pd) => {
   const newProd1 = {
     name: pd.name,
     price: pd.price,
-    description: " ",
+    description: ' ',
     images: [
       {
-        public_id: " ",
+        public_id: ' ',
         url: pd.picturesUrls[0],
       },
     ],
-    category: "Electronics",
-    seller: "chaldal",
+    category: 'Electronics',
+    seller: 'chaldal',
     stock: 50,
     reviews: [],
   };
